@@ -154,7 +154,7 @@
 
 }
 .bcimage{
-    background-image: url(amazonas.jpg);
+    background-image: url("amazonas.jpg");
     height: 325px;
     
     background-size: cover;
@@ -981,7 +981,7 @@ section{
     
     }
     .bcimage{
-        background-image: url(amazonas.jpg);
+        background-image: url("amazonas.jpg");
         background-size: cover;
         background-position: center;
         height: 165px;
