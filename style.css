@@ -850,8 +850,8 @@ section{
     
     }
     #logo{
-        height: 25px;
-        width: 55px;
+        height: 20px;
+        width: 50px;
         background-size: cover;
         background-image: url("amazon_logo.png");
     
@@ -864,6 +864,7 @@ section{
         font-size: 4px;
         color: #cccccc;
         margin-left: 10px;
+        display: flex;
     
     }
     #textb{
@@ -886,19 +887,19 @@ section{
         color: #0f1111;
         background-color: #ffffff;
         
-        width: 40px;
+        width: 38px;
         height: 23px;
         border-top-left-radius: 3px;
         border-bottom-left-radius:3px;
     }
     #search{
         height: 19px;
-        width: 100px;
+        width: 90px;
     }
     #logo2{
     
         height: 21px;
-        width: 20px;
+        width: 18px;
         background-color: #febd68;
         color: #0f1111;
         display: flex;
@@ -932,8 +933,9 @@ section{
     }
     #text5b{
         color: #ffffff;
-        font-size: 5px;
+        font-size: 4px;
         font-weight: bold;
+        display: flex;
     }
     #text6a{
         height: 10px;
@@ -978,6 +980,7 @@ section{
         width: 85px;
         font-weight: bold;
         margin-right: 0px;
+        font-size: 4px;
     
     }
     .bcimage{
@@ -1023,7 +1026,7 @@ section{
         justify-content: space-evenly;
     }
     .text10{
-        font-size: 5px;
+        font-size: 4px;
     }
     .box9image{
         display: none; 
@@ -1038,7 +1041,7 @@ section{
     .footer2{
    
         background-color: #232f3e;
-        height: 320px;
+        height: 350px;
     
     }
     .footer2text{
@@ -1057,7 +1060,7 @@ section{
         margin-left: 3px;
     }
     #logo5{
-        height: 25px;
+        height: 22px;
         width: 40px;
         background-size: contain;
         background-image: url("amazon_logo.png");
@@ -1066,7 +1069,7 @@ section{
         margin-top: 5px;
     }
     .footer211text{
-        height: 40px;
+        height: 60px;
         border-top: 0.1px solid white;
         display: flex;
         align-items: center;
@@ -1088,8 +1091,8 @@ section{
     .footer22{
         display: flex;
         border: 0.5px solid white;
-        width: 65px;
-        height: 12px;
+        width: 75px;
+        height: 16px;
         justify-content: space-evenly;
         border-radius: 2px;
         align-items: center;
@@ -1102,17 +1105,17 @@ section{
     .footer23{
         display: flex;
         border: 0.5px solid white;
-        width: 50px;
-        height: 12px;
+        width: 53px;
+        height: 16px;
         justify-content: space-evenly;
-        border-radius: 5px;
+        border-radius: 2px;
         align-items: center;
         color: #cccccc;
         font-size: 5px;
         margin-left: 8px;
     }
     .footer3{
-        height: 380px;
+        height: 390px;
         align-items: center;
         justify-content: space-evenly;
     }
@@ -1124,6 +1127,7 @@ section{
     }
     .footer4b{
         font-size: 4px;
+        margin-bottom: 5px;
     }
     .footer4a{
         font-size: 4px;
